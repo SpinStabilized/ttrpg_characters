@@ -1,6 +1,6 @@
 # Pretty Boy
 
-Basics:
+## Basics
 - **Current Status:** DEAD 
 - **Played By:** [Doug Somers](https://en.wikipedia.org/wiki/Doug_Somers) 
 - **System:** [Dungeon Crawl Classics](https://goodman-games.com/dungeon-crawl-classics-rpg/) 
@@ -31,28 +31,33 @@ Basics:
 | Intelligence | 10    | +0    |
 | Luck         |  9    | +0    |
 
-Weapon(s):
+## Weapon(s)
 - ~~Hammer (as club) +0 (1d4)~~ [Broken]
 
-Equipment:
+## Equipment
 - Waterskin (5 sp)
 
-Trade Good
+## Trade Good
 - Mithril (1 oz.)
 
-Starting Funds:
+## Starting Funds
 - 25 cp
 
-Lucky Sign:
+## Lucky Sign
 - Birdsong (Number of languages) (+0)
 
-Languages:
+## Languages
 - Common
 - Dwarf
 
-Racial Traits:
+## Racial Traits
 - Dwarven
   - Infravision
 
-Play History:
-  Played as part of a level-0 character sieve for DCC day 2021 on June 26, 2021.
+## HP History
+- 3 
+- 2 [-1 From Frog People Damage]
+- 0 [-2 Frog People Damage]
+
+## Play History
+- Played as part of a level-0 character sieve for DCC day 2021 on June 26, 2021.

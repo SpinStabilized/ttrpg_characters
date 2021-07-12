@@ -7,7 +7,7 @@ As I have the opportunity I will populate this repository with characters I have
 
 ## Characters
 * [Dungeon Crawl Classics](https://goodman-games.com/dungeon-crawl-classics-rpg/)
-  * Blacksmith
-  * Elven Forester
-  * Fortune Teller
-  * Potato Farmer
+  * [Blacksmith](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Blacksmith.md)
+  * [Elven Forester](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Elven_Forester.md)
+  * [Fortune Teller](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Fortune_Teller.md)
+  * [Potato Farmer](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Potato_Farmer.md)

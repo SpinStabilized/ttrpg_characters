@@ -6,8 +6,10 @@ Just a repository of TTRPG characters I have run.
 As I have the opportunity I will populate this repository with characters I have run in different TTRPG games divided into directories by the game system.
 
 ## Characters
+* [Pathfinder 1E](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game)
+  * [Jazeagith (Jaz) Ironkin](pf1e/Jazeagith_(Jaz)_Ironkin.md)
 * [Dungeon Crawl Classics](https://goodman-games.com/dungeon-crawl-classics-rpg/)
-  * [Blacksmith](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Blacksmith.md)
-  * [Elven Forester](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Elven_Forester.md)
-  * [Fortune Teller](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Fortune_Teller.md)
-  * [Potato Farmer](https://github.com/SpinStabilized/ttrpg_characters/blob/main/dcc/Potato_Farmer.md)
+  * [Blacksmith](dcc/Blacksmith.md)
+  * [Elven Forester](dcc/Elven_Forester.md)
+  * [Fortune Teller](dcc/Fortune_Teller.md)
+  * [Potato Farmer](dcc/Potato_Farmer.md)
